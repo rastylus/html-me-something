@@ -8,6 +8,7 @@
     border-collapse: collapse;
     border-color: rgb(236, 236, 236);
     text-align: center;
+    border-radius: 50px;
 }
 
 .titleCards {
@@ -15,20 +16,22 @@
     background-color: aquamarine;
     padding: 15px;
     display: block;
+    border-radius: 50px;
 }
 
 #testP {
     background-color: green;
+    border-radius: 50px;
+    padding-block: 25px;
 }
 
 .funParagraph {
-    color:rgb(30, 26, 20)
+    color:white;
 }
 
 
-
 body {
-    background-color: aqua;
+    background-color: white;
     margin: 8px;
     display: block;
 }
