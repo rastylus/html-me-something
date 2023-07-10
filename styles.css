@@ -19,6 +19,13 @@
     border-radius: 50px;
 }
 
+
+
+body {
+    background-color: white;
+    margin: 8px;
+    display: block;
+}
 #testP {
     background-color: purple;
     border-radius: 50px;
@@ -26,16 +33,10 @@
     padding-bottom: 20px;
     padding-right: 20px;
     padding-left: 20px;
+}
 
 .funParagraph {
     color: green;
-}
-
-
-body {
-    background-color: white;
-    margin: 8px;
-    display: block;
 }
 
 article {
