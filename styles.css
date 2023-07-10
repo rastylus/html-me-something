@@ -1,18 +1,38 @@
 
-header {
-    background-color: rgb(68, 13, 13);
+#mainHeading {
+    background-color: red;
     margin: 20px;
     padding: 20px;
-    color: rgb(181, 65, 223);
     border: 2px;
     border-style: ridge;
     border-collapse: collapse;
     border-color: rgb(236, 236, 236);
     text-align: center;
 }
+
+.titleCards {
+    color: rgb(0, 81, 255);
+    background-color: aquamarine;
+    padding: 15px;
+    display: block;
+}
+
+#testP {
+    background-color: green;
+}
+
+.funParagraph {
+    color:rgb(30, 26, 20)
+}
+
+
+
 body {
     background-color: aqua;
+    margin: 8px;
+    display: block;
 }
+
 article {
     text-align: center;
     padding: 25px
