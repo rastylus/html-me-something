@@ -17,9 +17,13 @@
     background-color: rgb(6, 148, 101);
     padding: 15px;
     /* border-radius: 50px; */
+    width: 400px;
     border-style: inset;
     border-color: rgb(129, 101, 155);
     border-width: thick;
+    text-align: center;
+    /* display: inline-block; */
+    margin: auto;
 }
 
 
@@ -54,6 +58,7 @@ img {
     border-style: groove;
     border-width: 15px;
     border-color: lavenderblush;
+    margin-top: 40px;
 }
 
 section {
